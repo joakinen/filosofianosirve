@@ -1,0 +1,18 @@
+# Videoconferencia
+
+El escenario más sencillo y compatible sería crear un espacio al que conectarse desde un navegador con WebRTC.
+
+
+
+## Servidores de terceros
+
+https://www.loowid.com
+
+Bienvenido/a a LooWID. Aquí podrás crear tu sala de videonferencia p2p donde podrás invitar a cualquier persona que quieras sin tener que compartir direcciones de correos, identificadores, etc. Nada se graba en nuestros servidores, toda la trasmisión de vídeo y audio se realiza directamente de navegador a navegador.
+
+
+# Self hosted
+
+https://nextcloud.com/talk/
+
+Screensharing, online meetings & web conferencing without data leaks.
